@@ -13,7 +13,7 @@ A basic calculator built using HTML, CSS, and JavaScript. This application allow
 - **Evaluate Expression**: Calculate and display the result.
 
 ## Screenshots
-![Calculator Screenshot]()
+![Calculator Screenshot](Screenshot%202024-09-17%20042409.png)
 
 ## Getting Started
 To get a local copy of this project up and running, follow these simple steps.
