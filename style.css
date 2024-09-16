@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(8, 174, 211);
+    margin: 0;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(5, 72, 88);
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.calculator {
+    background-color: rgb(140, 210, 226);
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    width: 300px;
+    padding: 20px;
+}
+
+#display {
+    width: 100%;
+    height: 50px;
+    font-size: 2em;
+    text-align: right;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid rgb(110, 202, 223);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 20px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+.symbols  {
+    background-color: rgb(249, 190, 82);
+}
+
+.splsymbols  {
+    background-color: rgb(103, 194, 240);
+}
+
+.eqlsymbols  {
+    background-color: rgb(92, 211, 124);
+}
+
+.csymbols  {
+    background-color: rgb(222, 80, 80);
+}
+
+.delsymbols  {
+    background-color: rgb(241, 211, 77);
+}
+
+.num  {
+    background-color: rgb(46, 173, 237);
+}
+
+button:hover {
+    background-color: #e0e0e0;
+}
