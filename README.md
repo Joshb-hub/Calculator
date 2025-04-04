@@ -23,6 +23,12 @@ A basic calculator built using HTML, CSS, and JavaScript. This application allow
 ### Final Result
 ![Result](Screenshot_2025-04-04_213603.png)
 
+## Screenshots
+![TicTacToe Screenshot](Screenshot%202025-04-01%20014228.png)
+![TicTacToe Screenshot](Screenshot%202025-04-01%20014359.png)
+![TicTacToe Screenshot](Screenshot%202025-04-01%20014349.png)
+![TicTacToe Screenshot](Screenshot%202025-04-01%20014244.png)
+
 ## Getting Started
 To get a local copy of this project up and running, follow these simple steps.
 ### Prerequisites
