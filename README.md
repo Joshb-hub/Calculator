@@ -2,7 +2,7 @@
 A basic calculator built using HTML, CSS, and JavaScript. This application allows users to perform simple arithmetic operations like addition, subtraction, multiplication,division, and modulus.
 
 ## Live Demo
-[Click here to play Tic-Tac-Toe](https://joshb-hub.github.io/Calculator/)
+[Click here to use Calculator](https://joshb-hub.github.io/Calculator/)
 
 ## Features
 - **Addition**: Perform addition of numbers.
