@@ -14,11 +14,11 @@ A basic calculator built using HTML, CSS, and JavaScript. This application allow
 
 ## Screenshots
 ### Start calculator 
-![Calculator](Screenshot%22025-04-04%2213548.png)
+[Calculator](Screenshot%22025-04-04%2213548.png)
 ### Number Entry 
-![Number Entry](Screenshot%22025-04-04%2213625.png)
+[Number Entry](Screenshot%22025-04-04%2213625.png)
 ### Final Result
-![Result](Screenshot%22025-04-04%2213603.png)
+[Result](Screenshot%22025-04-04%2213603.png)
 
 ## Getting Started
 To get a local copy of this project up and running, follow these simple steps.
