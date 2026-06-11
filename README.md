@@ -1,58 +1,338 @@
-# Simple Calculator
-A basic calculator built using HTML, CSS, and JavaScript. This application allows users to perform simple arithmetic operations like addition, subtraction, multiplication,division, and modulus.
+# 🧮 CalcMaster – Smart Web Calculator
 
-## Live Demo
-[Click here to use Calculator](https://joshb-hub.github.io/Calculator/)
+<div align="center">
 
-## Features
-- **Addition**: Perform addition of numbers.
-- **Subtraction**: Subtract numbers.
-- **Multiplication**: Multiply numbers.
-- **Division**: Divide numbers.
-- **Clear Button**: Clear the current input.
-- **Modulus Button**: Returns the remainder.
-- **Point Symbol**: For Decimals.
-- **Coma Symbol**: For Numbering System.
-- **Evaluate Expression**: Calculate and display the result.
+### Fast • Accurate • Responsive
 
-## Screenshots
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Start Calculator
-![Calculator](https://github.com/Joshb-hub/Calculator/blob/main/Screenshot%202025-04-04%20213548.png)
+### 🚀 Perform Everyday Calculations with Ease
 
-### Number Entry
-![Number Entry](https://github.com/Joshb-hub/Calculator/blob/main/Screenshot%202025-04-04%20213625.png)
+</div>
 
-### Final Result
-![Result](https://github.com/Joshb-hub/Calculator/blob/main/Screenshot%202025-04-04%20213603.png)
+---
 
-## Getting Started
-To get a local copy of this project up and running, follow these simple steps.
-### Prerequisites
-- A modern web browser (e.g., Google Chrome, Firefox, Safari)
-### Installation
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/simple-calculator.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd simple-calculator
-    ```
-3. **Open the `index.html` file**:
-    You can open the `index.html` file in any web browser to view the calculator in action.
-   
-## Usage
-1. **Enter numbers and operators**: Click on the buttons to input numbers and operators.
-2. **Perform calculations**: Click the `=` button to evaluate the expression.
-3. **Clear the display**: Click the `C` button to clear the current input.
+# 📌 Overview
 
-## Code Structure
-- **`index.html`**: Contains the HTML structure of the calculator.
-- **`style.css`**: Provides styling for the calculator.
-- **`script.js`**: Implements the functionality of the calculator.
+CalcMaster is a lightweight and interactive calculator application built using **HTML**, **CSS**, and **JavaScript**.
 
-## Acknowledgements
-- This project was inspired by various simple calculator applications.
-- Special thanks to the web development community for resources and tutorials.
+The application provides a clean and intuitive interface for performing essential arithmetic operations while delivering a smooth and responsive user experience across devices.
 
+Whether you're calculating simple sums or evaluating complete mathematical expressions, CalcMaster offers quick and accurate results.
+
+---
+
+# 🌐 Live Demo
+
+### 🚀 Try It Now
+
+**https://joshb-hub.github.io/Calculator/**
+
+---
+
+# ✨ Features
+
+## ➕ Addition
+
+Perform quick addition of numbers.
+
+---
+
+## ➖ Subtraction
+
+Calculate differences instantly.
+
+---
+
+## ✖️ Multiplication
+
+Multiply numbers efficiently.
+
+---
+
+## ➗ Division
+
+Perform accurate division operations.
+
+---
+
+## 📊 Modulus Operation
+
+Calculate remainders using the modulus operator.
+
+---
+
+## 🔢 Decimal Support
+
+Supports floating-point calculations using decimal values.
+
+---
+
+## 🧹 Clear Functionality
+
+Reset the display and start fresh.
+
+---
+
+## ⚡ Expression Evaluation
+
+Evaluate complete arithmetic expressions instantly.
+
+Example:
+
+```text
+25 + 10 × 2 - 5
+```
+
+---
+
+## 📱 Responsive Interface
+
+Optimized for:
+
+* Desktop
+* Tablet
+* Mobile Devices
+
+---
+
+# 🎯 Core Functionalities
+
+### Input Numbers
+
+Use the calculator buttons to enter numerical values.
+
+---
+
+### Perform Operations
+
+Available operators:
+
+```text
++
+-
+×
+÷
+%
+```
+
+---
+
+### Calculate Results
+
+Press:
+
+```text
+=
+```
+
+to evaluate the expression.
+
+---
+
+### Clear Display
+
+Press:
+
+```text
+C
+```
+
+to reset the calculator.
+
+---
+
+# 📸 Application Preview
+
+## 🏠 Calculator Interface
+
+![Calculator](Screenshot%202025-04-04%20213548.png)
+
+---
+
+## 🔢 Number Entry
+
+![Number Entry](Screenshot%202025-04-04%20213625.png)
+
+---
+
+## ✅ Calculation Result
+
+![Result](Screenshot%202025-04-04%20213603.png)
+
+---
+
+# ⚙️ Application Workflow
+
+```text
+User Clicks Numbers
+          ↓
+Expression Built
+          ↓
+Operator Selected
+          ↓
+Expression Evaluated
+          ↓
+Result Displayed
+```
+
+---
+
+# 🛠️ Technology Stack
+
+| Technology       | Purpose          |
+| ---------------- | ---------------- |
+| HTML5            | Structure        |
+| CSS3             | Styling          |
+| JavaScript       | Functionality    |
+| DOM Manipulation | User Interaction |
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+User Input
+     ↓
+Button Click Events
+     ↓
+JavaScript Processing
+     ↓
+Expression Evaluation
+     ↓
+Display Updated
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+Calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── Screenshot 2025-04-04 213548.png
+├── Screenshot 2025-04-04 213603.png
+└── Screenshot 2025-04-04 213625.png
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone Repository
+
+```bash
+git clone https://github.com/yourusername/simple-calculator.git
+```
+
+---
+
+## Navigate to Project
+
+```bash
+cd simple-calculator
+```
+
+---
+
+## Launch Application
+
+Open:
+
+```text
+index.html
+```
+
+in your preferred browser.
+
+No installation required.
+
+No dependencies required.
+
+---
+
+# 🎓 Learning Outcomes
+
+This project demonstrates:
+
+✅ JavaScript Fundamentals
+
+✅ DOM Manipulation
+
+✅ Event Handling
+
+✅ Expression Evaluation
+
+✅ UI Design Principles
+
+✅ Responsive Web Development
+
+---
+
+# 🌟 Highlights
+
+### User Experience
+
+* Clean Interface
+* Simple Navigation
+* Instant Feedback
+
+### Technical Skills
+
+* Frontend Development
+* JavaScript Logic Building
+* Interactive UI Components
+* Responsive Design
+
+### Performance
+
+* Lightweight
+* Fast Loading
+* Browser Compatible
+
+---
+
+# 🔮 Future Enhancements
+
+* Scientific Calculator Mode
+* Calculation History
+* Dark Mode
+* Keyboard Support
+* Memory Functions (M+, M-, MR)
+* Currency Conversion
+* Unit Conversion
+
+---
+
+# 📜 License
+
+This project is available under the MIT License.
+
+---
+
+# 💡 Why This Project?
+
+This calculator project was developed to strengthen core JavaScript concepts including:
+
+* Event Listeners
+* DOM Manipulation
+* Mathematical Operations
+* Dynamic User Interfaces
+
+It serves as a strong foundation for building more advanced web applications.
+
+---
+
+<div align="center">
+
+### ⭐ Calculate Smarter, Faster, Better
+
+Built with ❤️ using HTML, CSS & JavaScript
+
+</div>
